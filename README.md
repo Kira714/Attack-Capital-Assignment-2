@@ -1,16 +1,5 @@
 # Unified Inbox - Multi-Channel Customer Outreach Platform
 
-## 📹 Video Explanation
-
-> **Note**: A video explanation (`Video_Explanation.mp4`) is available locally. Due to GitHub's 100MB file size limit, please upload it to YouTube, Vimeo, or another video hosting service and update this link.
-
-**Recommended**: Upload the video to YouTube and embed it here using:
-```markdown
-[![Video Explanation](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-```
-
-Or host it on a file sharing service and link it here.
-
 > **A comprehensive full-stack application for unifying customer communications across SMS, WhatsApp, Email, and Social Media channels into a single, cohesive inbox interface.**
 
 ## 📋 Table of Contents
