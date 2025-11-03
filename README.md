@@ -2,7 +2,20 @@
 
 ## 📹 Video Explanation
 
-**[🎥 Watch Video Explanation on Google Drive](https://drive.google.com/file/d/18tiB_0_EmEcHAeFWTFJzBUTYuHSqRd7k/view?usp=sharing)**
+<div align="center">
+
+### 🎥 Project Demo Video
+
+<a href="https://drive.google.com/file/d/18tiB_0_EmEcHAeFWTFJzBUTYuHSqRd7k/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/🎬-Watch%20Video%20Explanation-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video Explanation" />
+</a>
+
+<br/>
+<br/>
+
+**Click the button above or [watch directly on Google Drive](https://drive.google.com/file/d/18tiB_0_EmEcHAeFWTFJzBUTYuHSqRd7k/view?usp=sharing)**
+
+</div>
 
 > **A comprehensive full-stack application for unifying customer communications across SMS, WhatsApp, Email, and Social Media channels into a single, cohesive inbox interface.**
 
