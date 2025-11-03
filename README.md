@@ -1,5 +1,9 @@
 # Unified Inbox - Multi-Channel Customer Outreach Platform
 
+## 📹 Video Explanation
+
+**[🎥 Watch Video Explanation on Google Drive](https://drive.google.com/file/d/18tiB_0_EmEcHAeFWTFJzBUTYuHSqRd7k/view?usp=sharing)**
+
 > **A comprehensive full-stack application for unifying customer communications across SMS, WhatsApp, Email, and Social Media channels into a single, cohesive inbox interface.**
 
 ## 📋 Table of Contents
