@@ -48,3 +48,8 @@ node_modules/.prisma
 .env
 .env.local
 .env.*.local
+
+# large video files (host externally)
+*.mp4
+*.mov
+*.avi
